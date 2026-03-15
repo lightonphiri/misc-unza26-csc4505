@@ -21,7 +21,7 @@ This repository is organised into the following directories:
 
 ## About Instructor
 
-2025/26 CSC 4505 is coordinated by [Dr. Lighton Phiri][3]. Additional information regarding research and projects can be found at the [UNZA DataLab][4].
+2025/26 CSC 4505 is coordinated by [Dr. Lighton Phiri](https://datalab.unza.zm/people/lightonphiri)[3]. Additional information regarding research and projects can be found at the [UNZA DataLab](https://datalab.unza.zm)[4].
 
 ## Auxiliary Resources
 
@@ -35,12 +35,12 @@ This repository is organised into the following directories:
 
 **References**
 
-[1] [http://cs.unza.zm](http://cs.unza.zm)
-[2] [https://www.unza.zm](https://www.unza.zm)
-[3]: [http://lightonphiri.org](http://lightonphiri.org)
-[4]: [https://datalab.unza.zm](https://datalab.unza.zm)
-[5]: [https://moodle.unza.zm/course/view.php?id=616](https://moodle.unza.zm/course/view.php?id=616)
-[6]: [https://moodle.unza.zm/course/view.php?id=616](https://moodle.unza.zm/course/view.php?id=616)
-[7]: [https://pyopengl.sourceforge.net/](https://pyopengl.sourceforge.net/)
-[8]: [https://numpy.org/doc/](https://numpy.org/doc/)
-[9]: [https://www.youtube.com/playlist?list=PLubb3AIPdPhYu-auUzK10YzvERCshyQ9M](https://www.youtube.com/playlist?list=PLubb3AIPdPhYu-auUzK10YzvERCshyQ9M)
+[1] [http://cs.unza.zm](http://cs.unza.zm)  
+[2] [https://www.unza.zm](https://www.unza.zm)  
+[3] [https://datalab.unza.zm/people/lightonphiri](https://datalab.unza.zm/people/lightonphiri)  
+[4] [https://datalab.unza.zm](https://datalab.unza.zm)  
+[5] [https://moodle.unza.zm/course/view.php?id=616](https://moodle.unza.zm/course/view.php?id=616)  
+[6] [https://moodle.unza.zm/course/view.php?id=616](https://moodle.unza.zm/course/view.php?id=616)  
+[7] [https://pyopengl.sourceforge.net/](https://pyopengl.sourceforge.net/)
+[8] [https://numpy.org/doc/](https://numpy.org/doc/)  
+[9] [https://www.youtube.com/playlist?list=PLubb3AIPdPhYu-auUzK10YzvERCshyQ9M](https://www.youtube.com/playlist?list=PLubb3AIPdPhYu-auUzK10YzvERCshyQ9M)  
