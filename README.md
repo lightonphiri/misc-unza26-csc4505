@@ -1,6 +1,6 @@
 # About 2025/26 CSC 4505: Computer Graphics and Visual Computing
 
-2025/26 CSC 4505 is an undergraduate-level course offered in the [Department of Computing and Informatics][1] at [The University of Zambia][2]. CSC 4505 introduces students to the various techniques used to model 2D and 3D objects and environments. The course focuses on the mathematical and programmatic foundations required to present graphical information effectively, ensuring that complex aspects of the digital world can be easily visualised.
+2025/26 CSC 4505 is an undergraduate-level course offered in the [Department of Computing and Informatics](http://cs.unza.zm) [1] at [The University of Zambia](http://unza.zm) [2]. CSC 4505 introduces students to the various techniques used to model 2D and 3D objects and environments. The course focuses on the mathematical and programmatic foundations required to present graphical information effectively, ensuring that complex aspects of the digital world can be easily visualised.
 
 ## Learning Outcomes
 
@@ -21,7 +21,7 @@ This repository is organised into the following directories:
 
 ## About Instructor
 
-2025/26 CSC 4505 is coordinated by [Dr. Lighton Phiri](https://datalab.unza.zm/people/lightonphiri)[3]. Additional information regarding research and projects can be found at the [UNZA DataLab](https://datalab.unza.zm)[4].
+2025/26 CSC 4505 is coordinated by [Dr. Lighton Phiri](https://datalab.unza.zm/people/lightonphiri) [3]. Additional information regarding research and projects can be found at the [UNZA DataLab](https://datalab.unza.zm) [4].
 
 ## Auxiliary Resources
 
